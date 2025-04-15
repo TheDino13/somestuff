@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="workflow" />
         <option value="Python Script" />
       </list>
     </option>
@@ -54,7 +55,7 @@
     "Python.test1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "developer",
+    "git-widget-placeholder": "fix-formatting",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -112,7 +113,7 @@
       <workItem from="1744724939011" duration="5234000" />
       <workItem from="1744730454201" duration="502000" />
       <workItem from="1744730966835" duration="209000" />
-      <workItem from="1744731182775" duration="301000" />
+      <workItem from="1744731182775" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="Added new file">
       <option name="closed" value="true" />
@@ -194,7 +195,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744730420888</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1744731507300</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744731507300</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1744732145477</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744732145477</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1744732346142</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744732346142</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
