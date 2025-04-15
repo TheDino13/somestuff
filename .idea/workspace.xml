@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd1abe48-04f7-4df3-870c-5a9a87a0d0e3" name="Changes" comment="Added new file" />
+    <list default="true" id="cd1abe48-04f7-4df3-870c-5a9a87a0d0e3" name="Changes" comment="Added new file">
+      <change afterPath="$PROJECT_DIR$/new.flake8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="workflow" />
       </list>
     </option>
   </component>
@@ -112,7 +116,7 @@
       <workItem from="1744724939011" duration="5234000" />
       <workItem from="1744730454201" duration="502000" />
       <workItem from="1744730966835" duration="209000" />
-      <workItem from="1744731182775" duration="605000" />
+      <workItem from="1744731182775" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="Added new file">
       <option name="closed" value="true" />
